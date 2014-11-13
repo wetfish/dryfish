@@ -1,0 +1,19 @@
+.row {
+    padding: 75px;
+    max-width: none;
+}
+
+.row {
+    color: #fff;
+}
+
+h1, h2 {
+    color: #fff;
+    font-weight: bold;
+}
+
+.row-1 { background-color: #ffa6a6; }
+.row-2 { background-color: #ff7d7d; }
+.row-3 { background-color: #ff9d7d; }
+.row-4 { background-color: #ffbe7d; }
+.row-5 { background-color: #ffde7d; }
